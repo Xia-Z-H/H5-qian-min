@@ -1,3 +1,3 @@
 # H5-qian-min
 
-H5 电子签名板
+基于jq 的 H5 电子签名板-demo
